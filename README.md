@@ -19,3 +19,9 @@ algorithms are implemented from scratch without the fit() function.
 *Homework 3*: using the Titanic Dataset, predict survivors using Decision Tree Classifier, GridSearchCV, and Random Forest Classifier 
 
 *Homework 4*: using a Titanic Dataset, fit a neural network with the independent variables 'pclass + sex + age + sibsp’ and dependent variable 'survived'. Check the performance of the model with out-of-sample accuracy. Used scikit-learn. 
+
+*Homework 5*: Design a genetic algorithmm to solve the polynomial fitting problem from Homework 1. Implement the genetic algorithm using both mutation and crossover operations. 
+  1. Plot the original noisy data 
+  2. Plot the polynomial obtained in Homework 1.
+  3. Plot polynnomial obtained from this implementation 
+  4. Compare and discuss the difference in performance of the two polynomials obtained with teh two different methods. 
